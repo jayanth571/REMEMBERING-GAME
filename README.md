@@ -1,6 +1,6 @@
 # Memory matching game
 
-## <b> [Click here to Play the GAME!!]
+## <b> [Click here--> (https://remembering-game-jayanth.netlify.app/) to Play the GAME!!]
 
 
 This project is made using HTML,CSS &amp; JavaScript.
